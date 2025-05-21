@@ -1,0 +1,14 @@
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algoirthms.exe
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algoirthms.deps.json
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algoirthms.runtimeconfig.json
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algoirthms.dll
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algoirthms.pdb
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.AssemblyInfoInputs.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.AssemblyInfo.cs
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.csproj.CoreCompileInputs.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.dll
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\refint\Algoirthms.dll
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.pdb
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algoirthms.genruntimeconfig.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\ref\Algoirthms.dll
