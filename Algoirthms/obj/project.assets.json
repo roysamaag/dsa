@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Roy\\learning\\dsa\\Algoirthms\\Algoirthms.csproj",
-      "projectName": "Algoirthms",
-      "projectPath": "C:\\Roy\\learning\\dsa\\Algoirthms\\Algoirthms.csproj",
+      "projectUniqueName": "C:\\Roy\\learning\\dsa\\Algoirthms\\Algorithms.csproj",
+      "projectName": "Algorithms",
+      "projectPath": "C:\\Roy\\learning\\dsa\\Algoirthms\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\rsam\\.nuget\\packages\\",
       "outputPath": "C:\\Roy\\learning\\dsa\\Algoirthms\\obj\\",
       "projectStyle": "PackageReference",

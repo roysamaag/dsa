@@ -1,0 +1,15 @@
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algorithms.exe
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algorithms.deps.json
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algorithms.dll
+C:\Roy\learning\dsa\Algoirthms\bin\Debug\net8.0\Algorithms.pdb
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.sourcelink.json
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.dll
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\refint\Algorithms.dll
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.pdb
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+C:\Roy\learning\dsa\Algoirthms\obj\Debug\net8.0\ref\Algorithms.dll
